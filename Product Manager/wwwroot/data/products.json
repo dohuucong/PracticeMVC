@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Id": "product-01",
+    "Name": "MER",
+    "Price": 19000000,
+    "Image": "https://img1.oto.com.vn/crop/230x172/2020/11/18/20201118083636-c73d_wm.jpg"
+
+  },
+  {
+    "Id": "product-02",
+    "Name": "TOYOTA",
+    "Price": 20000000,
+    "Image": "https://img1.oto.com.vn/crop/230x172/2020/11/18/20201118083636-c73d_wm.jpg"
+
+  },
+  {
+    "Id": "product-03",
+    "Name": "HONDA",
+    "Price": 15000000,
+    "Image": "https://img1.oto.com.vn/crop/230x172/2020/06/04/20200604125545-4542_wm.jpeg"
+
+  },
+  {
+    "Id": "product-04",
+    "Name": "KIA",
+    "Price": 25000000,
+    "Image": "https://img1.oto.com.vn/crop/230x172/2020/11/19/20201119140506-bf5a_wm.jpg"
+
+  },
+  {
+    "Id": "product-05",
+    "Name": "LAMBOR",
+    "Price": 25000000,
+    "Image": "https://img1.oto.com.vn/crop/230x172/2020/11/10/20201110165048-c288_wm.jpg"
+
+  },
+  {
+    "Id": "product-06",
+    "Name": "MAZDA",
+    "Price": 55000000,
+    "Image": "https://img1.oto.com.vn/crop/230x172/2020/11/10/20201110165048-c288_wm.jpg"
+
+  }
+]
